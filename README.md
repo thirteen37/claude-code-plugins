@@ -6,8 +6,8 @@ Personal Claude Code plugins marketplace by Yu-Xi Lim.
 
 Add this marketplace to Claude Code:
 
-```bash
-claude /install marketplace github:thirteen37/thirteen37-plugins
+```
+/plugin marketplace add thirteen37/thirteen37-plugins
 ```
 
 ## Available Plugins
@@ -20,8 +20,8 @@ claude /install marketplace github:thirteen37/thirteen37-plugins
 
 After adding the marketplace, install plugins with:
 
-```bash
-claude /install workbranch
+```
+/plugin install workbranch
 ```
 
 ## License
