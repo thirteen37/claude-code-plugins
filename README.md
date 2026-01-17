@@ -1,4 +1,4 @@
-# thirteen37-plugins
+# claude-code-plugins
 
 Personal Claude Code plugins marketplace by Yu-Xi Lim.
 
@@ -7,7 +7,7 @@ Personal Claude Code plugins marketplace by Yu-Xi Lim.
 Add this marketplace to Claude Code:
 
 ```
-/plugin marketplace add thirteen37/thirteen37-plugins
+/plugin marketplace add thirteen37/claude-code-plugins
 ```
 
 ## Available Plugins
