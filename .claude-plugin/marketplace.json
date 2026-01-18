@@ -10,7 +10,7 @@
     {
       "name": "workbranch",
       "description": "Git worktree manager for isolated development. Creates worktrees for features and bugfixes with automatic config file copying and post-create hooks.",
-      "version": "0.3.0",
+      "version": "0.3.1",
       "author": {
         "name": "Yu-Xi Lim",
         "email": "y@lyx.io"
