@@ -14,6 +14,7 @@ Add this marketplace to Claude Code:
 
 | Plugin | Description |
 |--------|-------------|
+| [amail](https://github.com/thirteen37/amail) | Agent-to-agent and agent-to-user messaging for multi-agent coordination |
 | [workbranch](https://github.com/thirteen37/workbranch) | Git worktree manager for isolated development |
 
 ## Installing Plugins

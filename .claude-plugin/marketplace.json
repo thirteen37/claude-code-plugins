@@ -21,6 +21,21 @@
       },
       "category": "development",
       "homepage": "https://github.com/thirteen37/workbranch"
+    },
+    {
+      "name": "amail",
+      "description": "Agent-to-agent and agent-to-user messaging for multi-agent coordination",
+      "version": "0.2.0",
+      "author": {
+        "name": "Yu-Xi Lim",
+        "email": "limyuxi@gmail.com"
+      },
+      "source": {
+        "source": "url",
+        "url": "https://github.com/thirteen37/amail.git"
+      },
+      "category": "development",
+      "homepage": "https://github.com/thirteen37/amail"
     }
   ]
 }
